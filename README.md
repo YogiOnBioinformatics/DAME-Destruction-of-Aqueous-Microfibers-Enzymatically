@@ -1,8 +1,8 @@
 # Destruction of Aqueous Microfibers Enzymatically (DAME): 
 
-A novel Synthetic Biology systems approach to destroying Polyester-based Microplastic fibers
+A novel Synthetic Biology systems approach to destroying Polyester-based Microplastic fibers!
 
-Read the proposal 📜 (`Proposal.pdf`)!
+**Read the proposal 📜 (`Proposal.pdf`)!**
 
 ## Abstract Figure 
 

@@ -2,7 +2,12 @@
 
 A novel Synthetic Biology systems approach to destroying Polyester-based Microplastic fibers!
 
-**Read the proposal 📜 (`Proposal.pdf`)!**
+📜 `Proposal.pdf`: 
+In-depth proposal overview including **background, design, testing, potential results, possible problems and conclusion**. 
+
+
+📜 `Overview.pptx`: 
+Few slides with images and brief overview of the project. 
 
 ## Abstract Figure 
 

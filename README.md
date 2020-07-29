@@ -5,7 +5,7 @@ A novel Synthetic Biology systems approach to destroying Polyester-based Micropl
 
 ## Abstract Figure 
 
-
+![Abstract Figure](https://raw.githubusercontent.com/YogiOnBioinformatics/DAME-Destruction-of-Aqueous-Microfibers-Enzymatically/master/Abstract_Figure.png)
 
 **Contact Information** 
 

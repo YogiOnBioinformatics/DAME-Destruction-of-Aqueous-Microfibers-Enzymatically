@@ -2,6 +2,7 @@
 
 A novel Synthetic Biology systems approach to destroying Polyester-based Microplastic fibers
 
+Read the proposal 📜 (`Proposal.pdf`)!
 
 ## Abstract Figure 
 
